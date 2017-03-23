@@ -14,6 +14,8 @@ class ViewController: UIViewController {
      let Name = "user"
     
     let me = "me"
+    
+    let second = "oushing"
     //new code
 
     override func viewDidLoad() {
